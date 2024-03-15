@@ -1,1 +1,1 @@
-# BMI_CALC.github.io
+# bmicalc
